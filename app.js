@@ -13,7 +13,7 @@ nome();
 
 function numero(){
     let nu;
-    nu = prompt('diga um numero');
+    nu = prompt('digite um numero');
     return console.log(nu*2); 
 }
 numero();
