@@ -6,7 +6,7 @@ olaMundo();
 
 function nome(){
     let n;
-    n = prompt('diga seu nome');
+    n = prompt('digite seu nome');
     return console.log(`ola ${n}`);
 }
 nome();
