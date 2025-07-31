@@ -19,9 +19,9 @@ function numero(){
 numero();
 
 function media(x,y,z){
-    x = Number(prompt('digite o numero 1'));
-    y = Number(prompt('digite o numero 2'));
-    z = Number(prompt('digite o numero 3'));
+    x = Number(prompt('digite o numero 10'));
+    y = Number(prompt('digite o numero 20'));
+    z = Number(prompt('digite o numero 30'));
     let m = (x + y + z) / 3;
     console.log(m);
 }
